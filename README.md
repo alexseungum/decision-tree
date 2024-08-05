@@ -3,5 +3,6 @@
 This is my code for creating a decision tree classifier from scratch. 
 
 # Spam 🍖
-The validation accuracy for the Spam decision tree was 81.4%.
-The training accuracy for the Spam decision tree was 84.6%.
+Validation accuracy, decision tree: 81.4%.
+\\
+Training accuracy, decision tree: 84.6%.
