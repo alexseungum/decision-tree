@@ -1,3 +1,4 @@
+import numpy as np
 class DecisionTree:
 
     def __init__(self, max_depth=3, feature_labels=None, m=0):
